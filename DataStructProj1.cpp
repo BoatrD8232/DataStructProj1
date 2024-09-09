@@ -1,3 +1,7 @@
+/*
+Data Structures Assignment 1
+author- David Boatright
+*/
 #include "arrayFunctions.h"
 
 int main()
